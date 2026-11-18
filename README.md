@@ -1,3 +1,3 @@
 # studenttaskmanager
-Project status: Planning
+Project status: In-development
 Managment system to add update delete student task
